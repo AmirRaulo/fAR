@@ -1,1 +1,4 @@
 # fAR
+azure 
+github
+training
